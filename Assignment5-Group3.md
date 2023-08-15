@@ -124,7 +124,7 @@ Both Reliability Growth Analysis and Reliability Demonstration Chart interpret t
 
 # How the team work/effort was divided and managed
 
-The team chose to collaborate on the lab project. We began first by installing the required tools. Together, we learned how to operate the tools and decided to use C-SFRAT because it was compatible with most laptops. However, Jacob and Kundai were not able to run the software because they both had Macbooks so Mohammed and Godwin worked on Part 1 using C-SFRAT and SRTAT while Kundai and Jacob worked on Part 2 using the RDC excel chart. Once all the necessary components were compiled and the graphs were created, the team collaborated to write the report and discuss their individual tools' functionality and results.
+The team chose to collaborate on the lab project. We began first by installing the required tools. Together, we learned how to operate the tools and decided to use C-SFRAT because it was compatible with most laptops. However, Tyler and Usman were not able to run the software because they both had Macbooks so Jay, Kabir and Rahul worked on Part 1 using C-SFRAT and SRTAT while Tyler and Usman worked on Part 2 using the RDC excel chart. Once all the necessary components were compiled and the graphs were created, the team collaborated to write the report and discuss their individual tools' functionality and results.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
