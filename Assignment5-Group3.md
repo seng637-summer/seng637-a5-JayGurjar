@@ -132,4 +132,4 @@ This lab was an interesting one, there were challenges encountered such as figur
 
 # Comments/feedback on the lab itself
 
-The setup for the lab and a handful of the tools being used in the lab were found to be slightly problematic. In the sense that some people hand hinderances which slowed down the implementation process. On one hand, some of the issues that arised caused us to slow down and learn how the systems work on a more clear box level in order to solve them. However, it did have a small impact on the effeciency of the team getting the work done for the lab and learning what truly needed to be learned. 
+The configuration of the laboratory and several of the utilized tools exhibited minor issues. These issues created obstacles that impeded the progress of the implementation process for certain individuals. While some challenges prompted a deeper understanding of the inner workings of the systems, leading to a more granular approach to problem-solving, they also contributed to a decrease in the team's work efficiency and the acquisition of essential knowledge for the lab.
